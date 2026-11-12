@@ -1,0 +1,442 @@
+{
+    "Arecanut": {
+        "count": 162,
+        "mean_yield": 2.0736,
+        "std_yield": 2.3298,
+        "min_yield": 0.0,
+        "max_yield": 10.9482,
+        "cv_yield": 1.1235
+    },
+    "Arhar/Tur": {
+        "count": 508,
+        "mean_yield": 0.9673,
+        "std_yield": 3.0068,
+        "min_yield": 0.1367,
+        "max_yield": 68.23,
+        "cv_yield": 3.1083
+    },
+    "Bajra": {
+        "count": 524,
+        "mean_yield": 2.4275,
+        "std_yield": 6.5944,
+        "min_yield": 0.208,
+        "max_yield": 74.3031,
+        "cv_yield": 2.7166
+    },
+    "Banana": {
+        "count": 245,
+        "mean_yield": 26.8511,
+        "std_yield": 20.3871,
+        "min_yield": 0.0,
+        "max_yield": 126.3877,
+        "cv_yield": 0.7593
+    },
+    "Barley": {
+        "count": 297,
+        "mean_yield": 1.5955,
+        "std_yield": 0.9137,
+        "min_yield": 0.26,
+        "max_yield": 3.9882,
+        "cv_yield": 0.5727
+    },
+    "Black pepper": {
+        "count": 126,
+        "mean_yield": 0.8296,
+        "std_yield": 0.8326,
+        "min_yield": 0.1417,
+        "max_yield": 4.1336,
+        "cv_yield": 1.0036
+    },
+    "Cardamom": {
+        "count": 74,
+        "mean_yield": 0.1684,
+        "std_yield": 0.3742,
+        "min_yield": 0.0,
+        "max_yield": 2.87,
+        "cv_yield": 2.2226
+    },
+    "Cashewnut": {
+        "count": 134,
+        "mean_yield": 3.1204,
+        "std_yield": 29.0883,
+        "min_yield": 0.0,
+        "max_yield": 338.549,
+        "cv_yield": 9.3219
+    },
+    "Castor seed": {
+        "count": 300,
+        "mean_yield": 0.6936,
+        "std_yield": 0.4632,
+        "min_yield": 0.07,
+        "max_yield": 2.4663,
+        "cv_yield": 0.6678
+    },
+    "Coconut": {
+        "count": 172,
+        "mean_yield": 8652.0002,
+        "std_yield": 3761.5415,
+        "min_yield": 0.0,
+        "max_yield": 21105.0,
+        "cv_yield": 0.4348
+    },
+    "Coriander": {
+        "count": 199,
+        "mean_yield": 0.6482,
+        "std_yield": 0.7278,
+        "min_yield": 0.0,
+        "max_yield": 5.4925,
+        "cv_yield": 1.1229
+    },
+    "Cotton(lint)": {
+        "count": 476,
+        "mean_yield": 1.797,
+        "std_yield": 4.4548,
+        "min_yield": 0.0,
+        "max_yield": 95.9939,
+        "cv_yield": 2.4789
+    },
+    "Cowpea(Lobia)": {
+        "count": 134,
+        "mean_yield": 0.8132,
+        "std_yield": 0.4894,
+        "min_yield": 0.0,
+        "max_yield": 2.5233,
+        "cv_yield": 0.6018
+    },
+    "Dry chillies": {
+        "count": 419,
+        "mean_yield": 2.0783,
+        "std_yield": 2.4137,
+        "min_yield": 0.205,
+        "max_yield": 14.0,
+        "cv_yield": 1.1614
+    },
+    "Garlic": {
+        "count": 250,
+        "mean_yield": 4.5449,
+        "std_yield": 3.8679,
+        "min_yield": 0.0,
+        "max_yield": 17.0,
+        "cv_yield": 0.851
+    },
+    "Ginger": {
+        "count": 323,
+        "mean_yield": 6.4422,
+        "std_yield": 6.3631,
+        "min_yield": 0.0,
+        "max_yield": 36.3578,
+        "cv_yield": 0.9877
+    },
+    "Gram": {
+        "count": 490,
+        "mean_yield": 0.8765,
+        "std_yield": 0.543,
+        "min_yield": 0.0,
+        "max_yield": 9.38,
+        "cv_yield": 0.6195
+    },
+    "Groundnut": {
+        "count": 725,
+        "mean_yield": 1.361,
+        "std_yield": 0.623,
+        "min_yield": 0.2042,
+        "max_yield": 3.6734,
+        "cv_yield": 0.4578
+    },
+    "Guar seed": {
+        "count": 63,
+        "mean_yield": 0.9519,
+        "std_yield": 1.2864,
+        "min_yield": 0.0,
+        "max_yield": 10.6515,
+        "cv_yield": 1.3515
+    },
+    "Horse-gram": {
+        "count": 371,
+        "mean_yield": 0.4628,
+        "std_yield": 0.2248,
+        "min_yield": 0.0,
+        "max_yield": 1.3,
+        "cv_yield": 0.4857
+    },
+    "Jowar": {
+        "count": 513,
+        "mean_yield": 1.0725,
+        "std_yield": 0.518,
+        "min_yield": 0.0036,
+        "max_yield": 3.5791,
+        "cv_yield": 0.483
+    },
+    "Jute": {
+        "count": 181,
+        "mean_yield": 7.5554,
+        "std_yield": 5.0055,
+        "min_yield": 0.0,
+        "max_yield": 25.4306,
+        "cv_yield": 0.6625
+    },
+    "Khesari": {
+        "count": 75,
+        "mean_yield": 0.7889,
+        "std_yield": 0.227,
+        "min_yield": 0.2812,
+        "max_yield": 1.5457,
+        "cv_yield": 0.2878
+    },
+    "Linseed": {
+        "count": 308,
+        "mean_yield": 0.4739,
+        "std_yield": 0.2233,
+        "min_yield": 0.0,
+        "max_yield": 1.2133,
+        "cv_yield": 0.4712
+    },
+    "Maize": {
+        "count": 975,
+        "mean_yield": 3.4272,
+        "std_yield": 31.6721,
+        "min_yield": 0.0,
+        "max_yield": 989.87,
+        "cv_yield": 9.2414
+    },
+    "Masoor": {
+        "count": 324,
+        "mean_yield": 0.7032,
+        "std_yield": 0.2388,
+        "min_yield": 0.2589,
+        "max_yield": 2.1237,
+        "cv_yield": 0.3396
+    },
+    "Mesta": {
+        "count": 210,
+        "mean_yield": 5.3892,
+        "std_yield": 3.3998,
+        "min_yield": 0.0,
+        "max_yield": 17.6788,
+        "cv_yield": 0.6309
+    },
+    "Moong(Green Gram)": {
+        "count": 740,
+        "mean_yield": 0.5309,
+        "std_yield": 0.2532,
+        "min_yield": 0.0,
+        "max_yield": 1.7733,
+        "cv_yield": 0.477
+    },
+    "Moth": {
+        "count": 110,
+        "mean_yield": 0.446,
+        "std_yield": 0.2566,
+        "min_yield": 0.0,
+        "max_yield": 1.0,
+        "cv_yield": 0.5754
+    },
+    "Niger seed": {
+        "count": 192,
+        "mean_yield": 0.4235,
+        "std_yield": 0.3992,
+        "min_yield": 0.0,
+        "max_yield": 4.9876,
+        "cv_yield": 0.9426
+    },
+    "Oilseeds total": {
+        "count": 29,
+        "mean_yield": 1.9956,
+        "std_yield": 1.9477,
+        "min_yield": 0.9325,
+        "max_yield": 8.5277,
+        "cv_yield": 0.976
+    },
+    "Onion": {
+        "count": 454,
+        "mean_yield": 13.2475,
+        "std_yield": 23.5778,
+        "min_yield": 0.0,
+        "max_yield": 381.42,
+        "cv_yield": 1.7798
+    },
+    "Other  Rabi pulses": {
+        "count": 355,
+        "mean_yield": 0.7804,
+        "std_yield": 0.5105,
+        "min_yield": 0.0,
+        "max_yield": 4.0,
+        "cv_yield": 0.6542
+    },
+    "Other Cereals": {
+        "count": 146,
+        "mean_yield": 0.8495,
+        "std_yield": 0.5303,
+        "min_yield": 0.0955,
+        "max_yield": 4.394,
+        "cv_yield": 0.6242
+    },
+    "Other Kharif pulses": {
+        "count": 382,
+        "mean_yield": 0.6995,
+        "std_yield": 0.3698,
+        "min_yield": 0.0,
+        "max_yield": 2.8,
+        "cv_yield": 0.5287
+    },
+    "Other Summer Pulses": {
+        "count": 10,
+        "mean_yield": 0.8599,
+        "std_yield": 0.6734,
+        "min_yield": 0.3347,
+        "max_yield": 2.8,
+        "cv_yield": 0.7831
+    },
+    "Peas & beans (Pulses)": {
+        "count": 369,
+        "mean_yield": 1.3939,
+        "std_yield": 1.7609,
+        "min_yield": 0.2117,
+        "max_yield": 13.1018,
+        "cv_yield": 1.2633
+    },
+    "Potato": {
+        "count": 628,
+        "mean_yield": 13.3317,
+        "std_yield": 20.3126,
+        "min_yield": 0.0,
+        "max_yield": 311.02,
+        "cv_yield": 1.5236
+    },
+    "Ragi": {
+        "count": 498,
+        "mean_yield": 1.2154,
+        "std_yield": 0.6876,
+        "min_yield": 0.0775,
+        "max_yield": 4.3365,
+        "cv_yield": 0.5657
+    },
+    "Rapeseed &Mustard": {
+        "count": 528,
+        "mean_yield": 0.7916,
+        "std_yield": 0.5828,
+        "min_yield": 0.08,
+        "max_yield": 6.345,
+        "cv_yield": 0.7362
+    },
+    "Rice": {
+        "count": 1197,
+        "mean_yield": 2.2185,
+        "std_yield": 0.8021,
+        "min_yield": 0.0167,
+        "max_yield": 8.7783,
+        "cv_yield": 0.3616
+    },
+    "Safflower": {
+        "count": 169,
+        "mean_yield": 0.5655,
+        "std_yield": 0.2363,
+        "min_yield": 0.0,
+        "max_yield": 1.2567,
+        "cv_yield": 0.4179
+    },
+    "Sannhamp": {
+        "count": 160,
+        "mean_yield": 1.275,
+        "std_yield": 1.7332,
+        "min_yield": 0.0,
+        "max_yield": 6.6226,
+        "cv_yield": 1.3594
+    },
+    "Sesamum": {
+        "count": 685,
+        "mean_yield": 0.6117,
+        "std_yield": 2.9101,
+        "min_yield": 0.0,
+        "max_yield": 69.3667,
+        "cv_yield": 4.7571
+    },
+    "Small millets": {
+        "count": 485,
+        "mean_yield": 0.7687,
+        "std_yield": 0.3544,
+        "min_yield": 0.0,
+        "max_yield": 2.8775,
+        "cv_yield": 0.4611
+    },
+    "Soyabean": {
+        "count": 349,
+        "mean_yield": 1.0832,
+        "std_yield": 0.4179,
+        "min_yield": 0.0,
+        "max_yield": 2.845,
+        "cv_yield": 0.3858
+    },
+    "Sugarcane": {
+        "count": 605,
+        "mean_yield": 51.7274,
+        "std_yield": 30.5834,
+        "min_yield": 0.29,
+        "max_yield": 165.0,
+        "cv_yield": 0.5912
+    },
+    "Sunflower": {
+        "count": 441,
+        "mean_yield": 0.9341,
+        "std_yield": 0.5198,
+        "min_yield": 0.0,
+        "max_yield": 5.02,
+        "cv_yield": 0.5565
+    },
+    "Sweet potato": {
+        "count": 273,
+        "mean_yield": 9.2408,
+        "std_yield": 5.0055,
+        "min_yield": 0.0,
+        "max_yield": 26.3394,
+        "cv_yield": 0.5417
+    },
+    "Tapioca": {
+        "count": 201,
+        "mean_yield": 16.6673,
+        "std_yield": 11.3016,
+        "min_yield": 0.0,
+        "max_yield": 42.0979,
+        "cv_yield": 0.6781
+    },
+    "Tobacco": {
+        "count": 364,
+        "mean_yield": 2.1107,
+        "std_yield": 3.6505,
+        "min_yield": 0.0,
+        "max_yield": 57.1205,
+        "cv_yield": 1.7295
+    },
+    "Turmeric": {
+        "count": 337,
+        "mean_yield": 3.3254,
+        "std_yield": 3.4372,
+        "min_yield": 0.0,
+        "max_yield": 19.3089,
+        "cv_yield": 1.0336
+    },
+    "Urad": {
+        "count": 733,
+        "mean_yield": 0.584,
+        "std_yield": 0.3017,
+        "min_yield": 0.0,
+        "max_yield": 4.1875,
+        "cv_yield": 0.5165
+    },
+    "Wheat": {
+        "count": 545,
+        "mean_yield": 2.0051,
+        "std_yield": 1.0795,
+        "min_yield": 0.0,
+        "max_yield": 5.0686,
+        "cv_yield": 0.5384
+    },
+    "other oilseeds": {
+        "count": 126,
+        "mean_yield": 1.7892,
+        "std_yield": 3.9368,
+        "min_yield": 0.0,
+        "max_yield": 21.38,
+        "cv_yield": 2.2003
+    }
+}

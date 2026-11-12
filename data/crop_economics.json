@@ -1,0 +1,187 @@
+{
+    "Rice": {
+        "market_price_per_tonne": 23000.0,
+        "cultivation_cost_per_ha": 45000.0,
+        "description": "Benchmark based on MSP & Commission for Agricultural Costs and Prices (CACP)"
+    },
+    "Wheat": {
+        "market_price_per_tonne": 22750.0,
+        "cultivation_cost_per_ha": 42000.0,
+        "description": "Benchmark based on MSP for wheat"
+    },
+    "Maize": {
+        "market_price_per_tonne": 20900.0,
+        "cultivation_cost_per_ha": 38000.0,
+        "description": "Benchmark based on MSP for Kharif maize"
+    },
+    "Cotton(lint)": {
+        "market_price_per_tonne": 71210.0,
+        "cultivation_cost_per_ha": 55000.0,
+        "description": "Benchmark based on Medium Staple Cotton MSP"
+    },
+    "Cotton": {
+        "market_price_per_tonne": 71210.0,
+        "cultivation_cost_per_ha": 55000.0,
+        "description": "Benchmark based on Medium Staple Cotton MSP"
+    },
+    "Jute": {
+        "market_price_per_tonne": 50500.0,
+        "cultivation_cost_per_ha": 42000.0,
+        "description": "Benchmark based on Raw Jute MSP"
+    },
+    "Arhar/Tur": {
+        "market_price_per_tonne": 75500.0,
+        "cultivation_cost_per_ha": 36000.0,
+        "description": "Pigeonpea benchmark based on Tur MSP"
+    },
+    "Pigeonpeas": {
+        "market_price_per_tonne": 75500.0,
+        "cultivation_cost_per_ha": 36000.0,
+        "description": "Pigeonpea / Arhar benchmark MSP"
+    },
+    "Gram": {
+        "market_price_per_tonne": 54400.0,
+        "cultivation_cost_per_ha": 32000.0,
+        "description": "Chickpea / Chana benchmark based on Gram MSP"
+    },
+    "Chickpea": {
+        "market_price_per_tonne": 54400.0,
+        "cultivation_cost_per_ha": 32000.0,
+        "description": "Chickpea benchmark based on Gram MSP"
+    },
+    "Moong(Green Gram)": {
+        "market_price_per_tonne": 85580.0,
+        "cultivation_cost_per_ha": 34000.0,
+        "description": "Mungbean benchmark based on Moong MSP"
+    },
+    "Mungbean": {
+        "market_price_per_tonne": 85580.0,
+        "cultivation_cost_per_ha": 34000.0,
+        "description": "Mungbean benchmark based on Moong MSP"
+    },
+    "Urad": {
+        "market_price_per_tonne": 69500.0,
+        "cultivation_cost_per_ha": 33000.0,
+        "description": "Blackgram benchmark based on Urad MSP"
+    },
+    "Blackgram": {
+        "market_price_per_tonne": 69500.0,
+        "cultivation_cost_per_ha": 33000.0,
+        "description": "Blackgram benchmark based on Urad MSP"
+    },
+    "Masoor": {
+        "market_price_per_tonne": 64250.0,
+        "cultivation_cost_per_ha": 32000.0,
+        "description": "Lentil benchmark based on Masur MSP"
+    },
+    "Lentil": {
+        "market_price_per_tonne": 64250.0,
+        "cultivation_cost_per_ha": 32000.0,
+        "description": "Lentil benchmark based on Masur MSP"
+    },
+    "Bajra": {
+        "market_price_per_tonne": 25000.0,
+        "cultivation_cost_per_ha": 28000.0,
+        "description": "Pearl millet benchmark MSP"
+    },
+    "Jowar": {
+        "market_price_per_tonne": 31800.0,
+        "cultivation_cost_per_ha": 30000.0,
+        "description": "Sorghum benchmark MSP"
+    },
+    "Soyabean": {
+        "market_price_per_tonne": 46000.0,
+        "cultivation_cost_per_ha": 35000.0,
+        "description": "Soybean yellow benchmark MSP"
+    },
+    "Groundnut": {
+        "market_price_per_tonne": 63770.0,
+        "cultivation_cost_per_ha": 40000.0,
+        "description": "Groundnut pods in shell MSP"
+    },
+    "Sugarcane": {
+        "market_price_per_tonne": 3150.0,
+        "cultivation_cost_per_ha": 85000.0,
+        "description": "Fair and Remunerative Price (FRP) benchmark"
+    },
+    "Banana": {
+        "market_price_per_tonne": 18000.0,
+        "cultivation_cost_per_ha": 120000.0,
+        "description": "Horticultural benchmark for commercial banana"
+    },
+    "Potato": {
+        "market_price_per_tonne": 14000.0,
+        "cultivation_cost_per_ha": 75000.0,
+        "description": "Benchmark tuber crop cultivation cost & wholesale price"
+    },
+    "Onion": {
+        "market_price_per_tonne": 16000.0,
+        "cultivation_cost_per_ha": 70000.0,
+        "description": "Benchmark vegetable commercial production"
+    },
+    "Coconut": {
+        "market_price_per_tonne": 3500.0,
+        "cultivation_cost_per_ha": 65000.0,
+        "description": "Coconut yield recorded in thousand nuts; price normalized per unit base"
+    },
+    "Moth": {
+        "market_price_per_tonne": 65000.0,
+        "cultivation_cost_per_ha": 26000.0,
+        "description": "Mothbeans regional benchmark"
+    },
+    "Mothbeans": {
+        "market_price_per_tonne": 65000.0,
+        "cultivation_cost_per_ha": 26000.0,
+        "description": "Mothbeans regional benchmark"
+    },
+    "Kidneybeans": {
+        "market_price_per_tonne": 85000.0,
+        "cultivation_cost_per_ha": 42000.0,
+        "description": "Rajma regional market wholesale price"
+    },
+    "Apple": {
+        "market_price_per_tonne": 65000.0,
+        "cultivation_cost_per_ha": 150000.0,
+        "description": "Temperate fruit benchmark"
+    },
+    "Orange": {
+        "market_price_per_tonne": 32000.0,
+        "cultivation_cost_per_ha": 95000.0,
+        "description": "Citrus commercial orchard benchmark"
+    },
+    "Papaya": {
+        "market_price_per_tonne": 15000.0,
+        "cultivation_cost_per_ha": 80000.0,
+        "description": "Tropical fruit commercial benchmark"
+    },
+    "Grapes": {
+        "market_price_per_tonne": 45000.0,
+        "cultivation_cost_per_ha": 180000.0,
+        "description": "High-input viticulture orchard benchmark"
+    },
+    "Mango": {
+        "market_price_per_tonne": 38000.0,
+        "cultivation_cost_per_ha": 90000.0,
+        "description": "Orchard maintenance and harvesting benchmark"
+    },
+    "Watermelon": {
+        "market_price_per_tonne": 10000.0,
+        "cultivation_cost_per_ha": 60000.0,
+        "description": "Short-duration cucurbit crop benchmark"
+    },
+    "Muskmelon": {
+        "market_price_per_tonne": 14000.0,
+        "cultivation_cost_per_ha": 65000.0,
+        "description": "Short-duration melon crop benchmark"
+    },
+    "Pomegranate": {
+        "market_price_per_tonne": 60000.0,
+        "cultivation_cost_per_ha": 140000.0,
+        "description": "Arid/semi-arid high-value horticultural benchmark"
+    },
+    "Coffee": {
+        "market_price_per_tonne": 150000.0,
+        "cultivation_cost_per_ha": 110000.0,
+        "description": "Plantation crop wholesale benchmark"
+    }
+}
